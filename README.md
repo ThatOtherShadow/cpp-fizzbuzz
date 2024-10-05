@@ -1,1 +1,1 @@
-[![C/C++ CI](https://github.com/ThatOtherShadow/cpp-fizzbuzz/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ThatOtherShadow/cpp-fizzbuzz/actions/workflows/c-cpp.yml)
+[![CMake on a single platform](https://github.com/ThatOtherShadow/cpp-fizzbuzz/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/ThatOtherShadow/cpp-fizzbuzz/actions/workflows/cmake-single-platform.yml)
